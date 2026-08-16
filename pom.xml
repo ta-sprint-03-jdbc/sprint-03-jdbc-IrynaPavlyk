@@ -12,7 +12,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <postgresql>42.7.10</postgresql>
+        <postgresql>42.7.13</postgresql>
         <junit.jupiter>5.10.2</junit.jupiter>
         <surefire-plugin>3.2.5</surefire-plugin>
         <hikari>5.1.0</hikari>

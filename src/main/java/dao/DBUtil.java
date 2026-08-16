@@ -71,7 +71,7 @@ public class DBUtil {
 
             // Fallback to default configuration
             HikariConfig config = createDefaultConfig();
-            config.setJdbcUrl("jdbc:postgresql://localhost:5432/example");
+            config.setJdbcUrl("jdbc:postgresql://localhost:5432/teachua");
             config.setUsername("postgres");
             config.setPassword("root");
             dataSource = new HikariDataSource(config);
